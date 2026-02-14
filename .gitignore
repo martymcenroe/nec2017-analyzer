@@ -10,3 +10,6 @@ __pycache__/
 
 # Poetry-specific
 poetry.lock
+
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
